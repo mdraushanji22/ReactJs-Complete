@@ -1,7 +1,9 @@
+import Styles from "./MyButton.module.css";
+
 function MyButton() {
   return (
     <div>
-      <button>MyButton</button>
+      <button className={Styles.button}>MyButton</button>
     </div>
   );
 }
