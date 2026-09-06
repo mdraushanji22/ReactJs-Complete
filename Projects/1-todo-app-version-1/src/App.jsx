@@ -2,14 +2,17 @@ import AddTodo from "./components/AddTodo";
 import AppName from "./components/AppName";
 import TodoItems from "./components/TodoItems";
 import TodoItems1 from "./components/TodoItems1";
+import "./App.css";
 
 function App() {
   return (
-    <center class="items-container">
+    <center className="todo-container">
       <AppName />
       <AddTodo />
-      <TodoItems />
-      <TodoItems1 />
+      <div className="items-container">
+        <TodoItems />
+        <TodoItems1 />
+      </div>
     </center>
   );
 }

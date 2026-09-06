@@ -1,0 +1,15 @@
+h1 {
+  margin: 10px;
+  font-weight: 700;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+.items-container {
+  align-items: first baseline;
+}
+.kg-row {
+  margin: 10px 5px;
+}

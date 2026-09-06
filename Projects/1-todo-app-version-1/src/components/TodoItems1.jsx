@@ -4,7 +4,7 @@ function TodoItems1() {
   return (
     <div>
       <div class="container text-center">
-        <div class="row">
+        <div class="row kg-row">
           <div class="col-6">{todoName}</div>
           <div class="col-4">{todoDate}</div>
           <div class="col-2">
