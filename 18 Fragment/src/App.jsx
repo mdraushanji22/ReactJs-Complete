@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  let foodItems = ["Dal", "Green Vegetable", "Roti", "Salad", "Milk"];
+  let foodItems = ["Dal", "Green Vegetable", "Roti", "Salad", "Milk", "Paneer"];
   return (
     <>
       <h1>Healty Food</h1>
