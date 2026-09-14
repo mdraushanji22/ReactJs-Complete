@@ -10,6 +10,7 @@ function App() {
     "Paneer",
     "Chana",
     "Butter",
+    "Ghee",
   ];
   return (
     <>
