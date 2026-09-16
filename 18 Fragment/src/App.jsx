@@ -11,6 +11,7 @@ function App() {
     "Chana",
     "Butter",
     "Ghee",
+    "Fruits",
   ];
   return (
     <>
