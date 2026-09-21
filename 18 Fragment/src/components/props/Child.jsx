@@ -1,7 +1,8 @@
-function Child() {
+function Child({ name, age }) {
   return (
     <div>
-      <h1>Hi, Raushan</h1>
+      <h3>Name: {name}</h3>
+      <p>Age: {age}</p>
     </div>
   );
 }
