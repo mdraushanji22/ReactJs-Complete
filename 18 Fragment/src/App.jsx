@@ -1,4 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import Parent from "./components/props/Parent";
 
 function App() {
   let foodItems = [
@@ -35,6 +36,7 @@ function App() {
         <li class="list-group-item">Milk</li>
       </ul> 
         </React.Fragment>*/}
+      <Parent />
     </>
   );
 }
