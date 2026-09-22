@@ -1,5 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import Parent from "./components/props/Parent";
+import Function from "./components/props/Function";
 
 function App() {
   let foodItems = [
@@ -37,6 +38,7 @@ function App() {
       </ul> 
         </React.Fragment>*/}
       <Parent />
+      <Function />
     </>
   );
 }
