@@ -6,6 +6,8 @@ function Function() {
   }
   return (
     <div>
+      <h1>I am using props</h1>
+
       <Button onClick={handleClick} />
     </div>
   );
