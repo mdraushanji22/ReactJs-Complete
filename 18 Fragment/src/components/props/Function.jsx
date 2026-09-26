@@ -7,8 +7,8 @@ function Function() {
   return (
     <div>
       <h1>I am using props</h1>
-      <h2>send data parent to child</h2>
-
+      <h2>send data parent to child</h2>c
+      <h3>We can send data function to child</h3>c
       <Button onClick={handleClick} />
     </div>
   );
