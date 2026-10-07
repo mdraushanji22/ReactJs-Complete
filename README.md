@@ -3,4 +3,5 @@ It is Reusable components based architecture.
 This is build single page application 
 This is modern library.
 Best library for frontend developer 
-It will return jsx
+It will return jsx.
+It is easy to learn 
